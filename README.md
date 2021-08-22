@@ -4,8 +4,8 @@ Read Aloud is a terminal-based ebook reader that renders a book in a multi-colum
 
 USAGE:- "book.py ebook.txt"
 
+![alt text](https://github.com/visheshk27/EDU-HACK/blob/main/1.PNG?raw=true)
+![alt text](https://github.com/visheshk27/EDU-HACK/blob/main/3.PNG?raw=true)
 
-![Screenshot](1.png)
-![Screenshot](3.png)
 
 
