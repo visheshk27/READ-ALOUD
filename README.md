@@ -1,4 +1,4 @@
-# EDU HACK
+# READ ALOUD
 
 Read Aloud is a terminal-based ebook reader that renders a book in a multi-column layout with margins, page numbers, and justified text. It is not currently considered finished but in its current form it supports plain-text ebooks and bookmarks to save your place.
 
