@@ -3,8 +3,10 @@
 Read Aloud is a terminal-based ebook reader that renders a book in a multi-column layout with margins, page numbers, and justified text. It is not currently considered finished but in its current form it supports plain-text ebooks and bookmarks to save your place.
 
 USAGE:- 
-git clone https://github.com/visheshk27/READ-ALOUD/
+git clone https://github.com/visheshk27/READ-ALOUD/ 
+
 cd READ-ALOUD
+
 "book.py ebook.txt"
 
 Here ebook.txt is the text file which you want to read 
