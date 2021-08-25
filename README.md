@@ -7,7 +7,7 @@ git clone https://github.com/visheshk27/READ-ALOUD/
 
 cd READ-ALOUD
 
-"book.py ebook.txt"
+python3 book.py ebook.txt
 
 Here ebook.txt is the text file which you want to read 
 
