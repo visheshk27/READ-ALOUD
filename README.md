@@ -14,6 +14,11 @@ Here ebook.txt is the text file which you want to read
 Tutorial:- https://www.youtube.com/watch?v=lx_VhoVdWvA
 
  New Telegram Username @visheshk2741
+ 
+ To contact me @visheshk2741 📌💯‼
+ 
+[ Visit our Official Website CrackingFactory!](https://crackingfactory.com/)
+ 
 
 ![alt text](https://github.com/visheshk27/EDU-HACK/blob/main/1.PNG?raw=true)
 ![alt text](https://github.com/visheshk27/EDU-HACK/blob/main/3.PNG?raw=true)
