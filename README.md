@@ -23,5 +23,7 @@ Tutorial:- https://www.youtube.com/watch?v=lx_VhoVdWvA
 ![alt text](https://github.com/visheshk27/EDU-HACK/blob/main/1.PNG?raw=true)
 ![alt text](https://github.com/visheshk27/EDU-HACK/blob/main/3.PNG?raw=true)
 
+Join our Telegram Group
+[https://t.me/Myreviewbites](https://t.me/Myreviewbites)
 
 
